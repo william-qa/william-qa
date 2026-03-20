@@ -2,7 +2,7 @@
 
 I'm William
 Accomplished QA Automation Developer with 10+ years of experience delivering scalable 
-testing solutions, primarily in the automotive and music tech sectors. Expertise in leading test 
+testing solutions, primarily in the automotive and network tech sectors. Expertise in leading test 
 strategy, enhancing automation frameworks, and optimizing CI/CD pipelines. Adept at cross-functional collaboration, Agile methodologies, and ensuring software reliability through robust test coverage and performance validation. 
 
 ## 🌐 Socials:
